@@ -1,4 +1,4 @@
-package com.keykotlin.learn.introduction.function
+package com.keykotlin.learn.functions
 
 fun greetMe(): Unit {
     println("Hello Kotlin from method returning Unit")

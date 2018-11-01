@@ -1,4 +1,4 @@
-package com.keykotlin.learn.introduction.function
+package com.keykotlin.learn.functions
 
 import java.util.*
 

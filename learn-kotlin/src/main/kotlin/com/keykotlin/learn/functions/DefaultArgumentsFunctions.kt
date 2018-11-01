@@ -1,4 +1,4 @@
-package com.keykotlin.learn.introduction.function
+package com.keykotlin.learn.functions
 
 fun greetMe(message: String, name: String = "Kotlin") {
     println("$message, $name")
@@ -20,7 +20,7 @@ open class A {
 }
 
 class B : A() {
-    //an overriding function is not allowed to specify default values for its parameters
+    //an overriding functions is not allowed to specify default values for its parameters
     /*override fun doSomthing(a: Int = 12) {
         println("B: $a")
     }*/

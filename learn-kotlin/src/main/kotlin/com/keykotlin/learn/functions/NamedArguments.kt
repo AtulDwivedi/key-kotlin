@@ -1,4 +1,4 @@
-package com.keykotlin.learn.introduction.function
+package com.keykotlin.learn.functions
 
 fun time(date: String, hours: Int = 0, mins: Int = 0, secs: Int = 0, millis: Int = 0) {
     println("Time is: $date:$hours:$mins:$secs:$millis")

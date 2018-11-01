@@ -1,4 +1,4 @@
-package com.keykotlin.learn.introduction.function
+package com.keykotlin.learn.functions
 
 fun doSquare(a: Int): Int = a * a
 fun doSquareOmitReturnType(a: Int) = a * a
